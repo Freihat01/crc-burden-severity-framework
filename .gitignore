@@ -1,0 +1,26 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# Raw/source data
+Incidence/
+Mortality/
+DALYs/
+YLLs/
+YLDs/
+Global/
+Population/
+
+# Generated outputs
+Publication/
+Figures/
+Tables/
+Supplementary/
+Analysis_objects/
+
+# Temporary/system files
+.DS_Store
+Thumbs.db
+~$*
